@@ -68,6 +68,10 @@
   <audio autoplay>
     <source src="/startup.ogg" type="audio/ogg" />
   </audio>
+  <script>
+  var audio = document.getElementById("myaudio");
+  audio.volume = 0.5;
+</script>
   <Footer/>
 </template>
 
