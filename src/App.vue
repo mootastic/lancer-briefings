@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Cheshire",
           "alias": "Aeva",
-          "code": "COMP/CON/PILOT/IDref/3e584dd2-9f2b-4473-85c9-414647f3798c",
+          "code": "PILOT/IDref/3e584dd2-9f2b-4473-85c9-414647f3798c",
           "corpro": "GMS",
           "frame": "CHOMOLUNGMA",
           "mech": "Ethereal and Unquestionable"
@@ -111,7 +111,7 @@ export default {
         {
           "callsign": "Kal",
           "alias": "Vier Flau",
-          "code": "COMP/CON/PILOT/IDref/3e584dd2-9f2b-4473-85c9-414647f3798c",
+          "code": "PILOT/IDref/3e584dd2-9f2b-4473-85c9-414647f3798c",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Necrophile"
@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "Starboard",
           "alias": "Maria",
-          "code": "COMP/CON/PILOT/IDref/3e584dd2-9f2b-4473-85c9-414647f3798c",
+          "code": "PILOT/IDref/3e584dd2-9f2b-4473-85c9-414647f3798c",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Scarlet Judicator"
@@ -127,7 +127,7 @@ export default {
         {
           "callsign": "Badlands",
           "alias": "Marlene Gatsby",
-          "code": "COMP/CON/PILOT/IDref/3e584dd2-9f2b-4473-85c9-414647f3798c",
+          "code": "PILOT/IDref/3e584dd2-9f2b-4473-85c9-414647f3798c",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Mayfly"
