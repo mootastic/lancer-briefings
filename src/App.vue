@@ -65,7 +65,7 @@
       </filter>
     </defs>
   </svg>
-  <audio autoplay>
+  <audio autoplay id="myaudio">
     <source src="/startup.ogg" type="audio/ogg" />
   </audio>
   <script>
