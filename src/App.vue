@@ -95,18 +95,18 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Operation: Solstice Rain",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
+          "callsign": "Cheshire",
+          "alias": "Aeva",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "frame": "CHOMOLUNGMA",
+          "mech": "Ethereal and Unquestionable"
         },
         {
           "callsign": "Kal",
@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "planet": "Nov Elysia",
+        "year": "5016u",
+        "system": "Cressidium",
+        "gate": "Rainier",
+        "ring": "Cascade Line",
+        "headerTitle": "Union Naval Department",
+        "headerSubtitle": "",
+        "subheaderTitle": "UNS-CV Rio Grande",
+        "subheaderSubtitle": "Strike Group",
       },
       "options":{
         "eventsMarkdownPerMission": true
