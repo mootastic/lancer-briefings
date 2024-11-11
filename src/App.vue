@@ -106,28 +106,28 @@ export default {
           "mech": "Ethereal and Unquestionable"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "PILOT/IDref/3e584dd2-9f2b-4473-85c9-414647f3798c",
+          "callsign": "CHASE",
+          "alias": "CHASE",
+          "code": "PILOT/IDref/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "CHASE"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "PILOT/IDref/3e584dd2-9f2b-4473-85c9-414647f3798c",
+          "callsign": "WOLF",
+          "alias": "WOLF",
+          "code": "PILOT/IDref/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "mech": "WOLF"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "PILOT/IDref/3e584dd2-9f2b-4473-85c9-414647f3798c",
+          "callsign": "BRIAN",
+          "alias": "BRIAN",
+          "code": "PILOT/IDref/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Mayfly"
+          "mech": "BRIAN"
         },
       ],
       "header": {
