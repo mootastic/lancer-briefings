@@ -65,13 +65,6 @@
       </filter>
     </defs>
   </svg>
-  <audio autoplay id="myaudio">
-    <source src="/startup.ogg" type="audio/ogg" />
-  </audio>
-  <script>
-  var audio = document.getElementById("myaudio");
-  audio.volume = 0.2;
-</script>
   <Footer/>
 </template>
 
