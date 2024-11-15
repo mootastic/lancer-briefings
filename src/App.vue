@@ -115,7 +115,7 @@ export default {
         },
         {
           "callsign": "El Diablo",
-          "alias": "WOLF",
+          "alias": "Ricardo Roberts",
           "code": "PILOT/IDref/a895c370-9978-419d-8e85-c944dc755e4f",
           "corpro": "GMS",
           "frame": "Everest",
