@@ -114,12 +114,12 @@ export default {
           "mech": "CHASE"
         },
         {
-          "callsign": "WOLF",
+          "callsign": "El Diablo",
           "alias": "WOLF",
-          "code": "PILOT/IDref/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+          "code": "PILOT/IDref/a895c370-9978-419d-8e85-c944dc755e4f",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "WOLF"
+          "mech": "Whole-Ass One Thing"
         },
         {
           "callsign": "BRIAN",
