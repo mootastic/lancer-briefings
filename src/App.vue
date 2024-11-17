@@ -122,12 +122,12 @@ export default {
           "mech": "Whole-Ass One Thing"
         },
         {
-          "callsign": "BRIAN",
-          "alias": "BRIAN",
-          "code": "PILOT/IDref/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+          "callsign": "Buzzard",
+          "alias": "Anton Madler",
+          "code": "PILOT/IDref/4a67acd5-5ee3-4e5a-bb44-8d8480b26003",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "BRIAN"
+          "mech": "Grey Area"
         },
       ],
       "header": {
