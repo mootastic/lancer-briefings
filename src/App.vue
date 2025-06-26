@@ -106,9 +106,9 @@ export default {
           "mech": "Ethereal and Unquestionable"
         },
         {
-          "callsign": "CHASE",
-          "alias": "CHASE",
-          "code": "PILOT/IDref/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+          "callsign": "Hammer",
+          "alias": "Tohrel Jones",
+          "code": "PILOT/IDref/99bdb35e-f826-4a22-af57-d00fb59c1362",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "CHASE"
