@@ -111,7 +111,7 @@ export default {
           "code": "PILOT/IDref/99bdb35e-f826-4a22-af57-d00fb59c1362",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "CHASE"
+          "mech": "Yeti"
         },
         {
           "callsign": "El Diablo",
