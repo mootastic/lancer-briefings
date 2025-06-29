@@ -98,7 +98,7 @@ export default {
         {
         "slug": "002",
         "name": "Operation: Daybreak",
-        "status": "start"
+        "status": ""
         }
 
       ],
