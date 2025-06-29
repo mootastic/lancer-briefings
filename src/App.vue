@@ -129,6 +129,14 @@ export default {
           "frame": "Everest",
           "mech": "Grey Area"
         },
+        {
+          "callsign": "UNKNOWN",
+          "alias": "UNKNOWN",
+          "code": "PILOT/IDref/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "UNKNOWN"
+        }
       ],
       "header": {
         "planet": "Nov Elysia",
