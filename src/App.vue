@@ -95,6 +95,12 @@ export default {
           "name": "Operation: Solstice Rain",
           "status": "start"
         },
+        {
+        "slug": "002",
+        "name": "Operation: Daybreak",
+        "status": "start"
+        }
+
       ],
       "pilots": [
         {
