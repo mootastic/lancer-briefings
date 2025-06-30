@@ -137,12 +137,12 @@ export default {
           "mech": "Grey Area"
         },
         {
-          "callsign": "UNKNOWN",
-          "alias": "UNKNOWN",
-          "code": "PILOT/IDref/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+          "callsign": "Ambassassin",
+          "alias": "Dax Morrow",
+          "code": "PILOT/IDref/3bddbb10-cf0d-4d9b-b37d-5809be68be91",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "UNKNOWN"
+          "mech": "Mister Misunderstanding"
         }
       ],
       "header": {
