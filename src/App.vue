@@ -120,14 +120,14 @@ export default {
           "frame": "Everest",
           "mech": "Yeti"
         },
-        {
+        /*{
           "callsign": "El Diablo",
           "alias": "Ricardo Roberts",
           "code": "PILOT/IDref/a895c370-9978-419d-8e85-c944dc755e4f",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Whole-Ass One Thing"
-        },
+        }, */
         {
           "callsign": "Buzzard",
           "alias": "Anton Madler",
